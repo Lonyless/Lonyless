@@ -5,4 +5,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br>
