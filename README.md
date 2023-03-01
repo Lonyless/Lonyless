@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?&font=monospace&color=36BCF7&size=37&height=90&width=800&duration=1000&pause=1000&center=true&lines=Hey, I'm Victor!;I'm+a+Full Stack+Developer;I'm+also+a+graduate+Software+Engineer!"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?&font=roboto&color=36BCF7&size=37&height=90&width=800&duration=1000&pause=1000&center=true&lines=Hey, I'm Victor!;I'm+a+Full Stack+Developer;I'm+also+a+graduate+Software+Engineer!"/></a>
 </div>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="width: 17%" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
