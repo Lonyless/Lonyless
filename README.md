@@ -1,7 +1,5 @@
 
-<div align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?&font=noto sans&color=3FB6D3&repeat=false&size=37&height=180&width=900&duration=1000&pause=2000&center=true&lines=Hey, I'm Victor!;Developing+Flutter+apps+since+2020!;"/></a>
-</div>
+
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="width: 17%" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="width: 17%" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
