@@ -6,7 +6,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="width: 15%" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" style="width: 15%" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" style="width: 15%" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" style="width: 15%" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" style="width: 15%" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="width: 15%" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="width: 15%" height="50"/>
 </div>
 
